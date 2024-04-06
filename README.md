@@ -9,7 +9,7 @@ The following are the standard or built-in data types in Python:
 ### 1. Numeric
 #### - Integer
 To process integer data, it may be necessary to utilize mathematical operations such as addition, subtraction, division, multiplication, and various others.
-![Screenshot (685)](https://github.com/dindafatimahsarah/python_learning1/assets/134476980/8d83a638-1a3d-4f2e-9e5f-1c097329a8e4)
+[alt text] ![Screenshot (685)](https://github.com/dindafatimahsarah/python_learning1/assets/134476980/8d83a638-1a3d-4f2e-9e5f-1c097329a8e4)
 
 #### - Float 
 The float data type will be closely related to numeric data in the form of fractions or decimals. In processing this data, we can also utilize math operations.
