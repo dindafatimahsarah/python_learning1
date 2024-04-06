@@ -1,4 +1,4 @@
-![Screenshot (741)](https://github.com/dindafatimahsarah/python_learning1/assets/134476980/64176f92-e579-41f0-be19-19d941294eb6)# Python for Data Analyst - Week 1
+# Python for Data Analyst - Week 1
 
 ## What is Python?
 Python is a computer programming language often used to build websites and software, automate tasks, and analyze data. Python is a general-purpose language, not specialized for any specific problems, and used to create various programmes.
