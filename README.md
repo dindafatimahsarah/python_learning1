@@ -19,7 +19,6 @@ The float data type will be closely related to numeric data in the form of fract
 Expressing pairs of real and imaginary numbers
 ![Screenshot (687)](https://github.com/dindafatimahsarah/python_learning1/assets/134476980/e303a320-c8a4-453c-82f8-0979118b2f9d)
 
-
 ### 2. String
 String data type is also called text data type, this data type is used to store text. String data must be enclosed in quotes, either single quotes (' ') or double quotes ("  ") after the equal character (=).
 ![Screenshot (688)](https://github.com/dindafatimahsarah/python_learning1/assets/134476980/35cbd99e-28ef-43c3-b4ae-da70e9352687)
@@ -41,16 +40,15 @@ In Python, tuples are ordered, immutable collections of elements. They are simil
 Tuples cannot be modified after creation. This makes them ideal for situations where you need to ensure data integrity and prevent accidental changes. Like a list, we can do slicing.
 ![Screenshot (693)](https://github.com/dindafatimahsarah/python_learning1/assets/134476980/59c19a38-722b-4592-b940-411b403d14cf)
 
-
 ### 3. Set
 A set is an unordered collection of elements that are unique. This means that a set cannot contain duplicate values. Sets are useful for several purposes. 
 Sets in Python provide methods and operators for performing unions and intersections
 ![Screenshot (695)](https://github.com/dindafatimahsarah/python_learning1/assets/134476980/d7856551-4f47-4378-9427-0069a3723633)
 
 1) Union: The union of two sets combines all unique elements from both sets.
-   ![Screenshot (697)](https://github.com/dindafatimahsarah/python_learning1/assets/134476980/12769f54-4279-48b0-902e-dd4d8a4723bd)
+![Screenshot (697)](https://github.com/dindafatimahsarah/python_learning1/assets/134476980/12769f54-4279-48b0-902e-dd4d8a4723bd)
 
-2) Intersection: Intersection is a slice, where the intersection value of two sets.
+3) Intersection: Intersection is a slice, where the intersection value of two sets.
 ![Screenshot (698)](https://github.com/dindafatimahsarah/python_learning1/assets/134476980/67927054-38ac-46b9-b0b6-8c9df18d7d57)
 
 ### 4. Dictionary
@@ -59,7 +57,6 @@ Python dictionary is like hash tables in any other language with the time comple
 
 A nested dictionary is a dictionary that has one or more dictionaries as its values. This allows you to create hierarchical and complex data structures to organize information effectively.
 ![Screenshot (703)](https://github.com/dindafatimahsarah/python_learning1/assets/134476980/a480a2c9-0411-4f49-a6e5-06852933a9f8)
-
 
 ## Arithmetic Operators
 Arithmetic operators in Python are symbols that perform basic mathematical operations on numerical data types like integers, floats, and complex numbers. 
@@ -101,6 +98,7 @@ inserts a variable value in a string : you can directly concatenates variables i
 ### - Input 
 In Python, input() is a built-in function used to prompt the user to enter input from the keyboard. It reads a line of input from the user as a string and returns that string. The input() function is commonly used for interactive programs where the user needs to provide data to the program during its execution. 
 ![Screenshot (716)](https://github.com/dindafatimahsarah/python_learning1/assets/134476980/67f47193-c5e9-4dc7-83c5-da52634df023)
+
 ![Screenshot (714)](https://github.com/dindafatimahsarah/python_learning1/assets/134476980/5194d111-14a1-432c-a56e-3e3d800932ec)
 
 ## Conditional Expressions
@@ -120,9 +118,11 @@ In Python, elif is a keyword
 
  ## Iteration
 Iteration in Python refers to the process of repeating a set of instructions or steps multiple times. It allows you to execute a block of code repeatedly, typically based on certain conditions, until a specific condition is met. Python provides several ways to perform iteration, including loops and comprehensions.
+
 ### 1. For
 For loops are used to iterate over a sequence (such as a list, tuple, string, or range) or any iterable object. The loop continues until all items in the sequence have been processed.
 ![Screenshot (727)](https://github.com/dindafatimahsarah/python_learning1/assets/134476980/d6aae2cd-8e09-4f6f-95a0-dcf2d32be32e)
+
 - Else after for
 ![Screenshot (731)](https://github.com/dindafatimahsarah/python_learning1/assets/134476980/f1632923-3640-49c9-92b3-6d911a2a00b1)
 
@@ -144,7 +144,6 @@ In a programming context, "while" is often used as part of a loop structure to e
 
 -Else after while
 ![Screenshot (739)](https://github.com/dindafatimahsarah/python_learning1/assets/134476980/4a5a1981-7749-4123-9278-7f6f96d7ab04)
-
 
 ## List Comprehension
 One way to generate a new list based on a pre-existing list or iterables (such as a list, tuple, or string), apply an expression or operation on each element, and automatically build a new list with the results.
