@@ -9,18 +9,22 @@ The following are the standard or built-in data types in Python:
 ### 1. Numeric
 #### - Integer
 To process integer data, it may be necessary to utilize mathematical operations such as addition, subtraction, division, multiplication, and various others.
-![[alt text]](https://github.com/dindafatimahsarah/python_learning1/assets/134476980/8d83a638-1a3d-4f2e-9e5f-1c097329a8e4)
+
+![[integer]](https://github.com/dindafatimahsarah/python_learning1/assets/134476980/8d83a638-1a3d-4f2e-9e5f-1c097329a8e4)
 
 #### - Float 
 The float data type will be closely related to numeric data in the form of fractions or decimals. In processing this data, we can also utilize math operations.
+
 ![Screenshot (686)](https://github.com/dindafatimahsarah/python_learning1/assets/134476980/5ae06108-2098-4431-9ef2-82e6799130dd)
 
 #### - Complex
 Expressing pairs of real and imaginary numbers
+
 ![Screenshot (687)](https://github.com/dindafatimahsarah/python_learning1/assets/134476980/e303a320-c8a4-453c-82f8-0979118b2f9d)
 
 ### 2. String
 String data type is also called text data type, this data type is used to store text. String data must be enclosed in quotes, either single quotes (' ') or double quotes ("  ") after the equal character (=).
+
 ![Screenshot (688)](https://github.com/dindafatimahsarah/python_learning1/assets/134476980/35cbd99e-28ef-43c3-b4ae-da70e9352687)
 
 ### 3. Boolean
